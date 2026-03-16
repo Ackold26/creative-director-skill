@@ -1,8 +1,11 @@
 # 🎬 Creative Director Skill
 
+> **Этот скилл теперь часть [AI Agency OS](https://github.com/Ackold26/ai-agency-os).** Standalone-версия здесь сохранена как публичный showcase. Актуальная версия в основном репозитории: [`Agency/.claude/skills/creative-director/`](https://github.com/Ackold26/ai-agency-os/tree/main/Agency/.claude/skills/creative-director).
+
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet?style=flat-square)](https://docs.anthropic.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![20+ Methods](https://img.shields.io/badge/Methods-20%2B-orange?style=flat-square)](#методологии-20)
+[![Part of AI Agency OS](https://img.shields.io/badge/Часть-AI%20Agency%20OS-blue?style=flat-square)](https://github.com/Ackold26/ai-agency-os)
 
 **🇬🇧 [Read in English](README.md)**
 
